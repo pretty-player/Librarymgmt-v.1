@@ -5,8 +5,9 @@ Requirements
 >Bash
 pip install -r requirements.txt
 How to Run
-Bash
-python library_system.py
+>Bash
+python library.py
+>
 Default Admin Access
 Password: admin123 (Required to view logs or perform a factory reset)
 
